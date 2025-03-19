@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "PFE1",
+    "slug": "pfe1",
+    "version": "0.0.1",
+    "sdkVersion": "52.0.0",
+    "platforms": ["ios", "android"],
+    "jsEngine": "hermes",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "ios": {
+      "bundleIdentifier": "com.reffai.pfe1",
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSLocationWhenInUseUsageDescription": "Nous avons besoin de votre localisation pour suivre l'appareil.",
+        "NSLocationAlwaysUsageDescription": "Nous avons besoin d'accéder à votre localisation en arrière-plan pour suivre l'appareil."
+      }
+    },
+    "android": {
+      "package": "com.reffai.pfe1",
+      "permissions": [
+        "ACCESS_FINE_LOCATION",
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_BACKGROUND_LOCATION" 
+      ]
+    }
+  }
+}

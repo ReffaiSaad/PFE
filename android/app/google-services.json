@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "357664265035",
+    "project_id": "pfe1-bb3a9",
+    "storage_bucket": "pfe1-bb3a9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357664265035:android:ce43217e001e5690ddcece",
+        "android_client_info": {
+          "package_name": "com.reffai.pfe1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0CMUr-x-E09ualrNu-_WKKcwibPm4h7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
